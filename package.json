@@ -1,0 +1,13 @@
+{
+  "author": "Jota Pê",
+  "github": "https://github.com/JotapeDev",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "discord-buttons": "^4.0.0",
+    "discord.js": "^13.2.0",
+    "eris": "^0.15.1",
+    "eris-components": "^1.0.5",
+    "node": "16.6.1",
+    "pluris": "^0.3.7"
+  }
+}
